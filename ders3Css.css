@@ -1,0 +1,21 @@
+
+	.birinci {
+        
+        background-image: url(Sketch.png)
+        
+	}
+
+	div{
+		text-align: center;
+		background: red;
+		width: 900px;
+		height: 300px;
+		margin: 50
+	}
+	div h1{
+        color: blue
+        
+
+
+	}
+
